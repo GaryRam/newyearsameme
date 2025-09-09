@@ -2,3 +2,10 @@ body {
     background-image: url();
     background-repeat: no-repeat;
 }
+
+.boxed-text {
+  border: 2px solid black;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 5px;
+}
