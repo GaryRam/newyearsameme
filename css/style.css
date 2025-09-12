@@ -1,3 +1,17 @@
 body {
     background-image: url(https://images.ctfassets.net/wn7ipiv9ue5v/4CSJFlcO34EHOeAR0XMIRJ/2cea77aa64084d4cdb5414f34a540abf/MAF4-STD-DIGITAL_BANNERS_AND_CHANNEL_SETUP-D2C-STATIC-ENUS-NO_RATING-AGN-3840x2160-R1.jpg);
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    background-position: center center;
+    margin: 0;
+    background-size: cover;
+}
+
+.boxed-text {
+    border: 2px solid white;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: white;
+}
